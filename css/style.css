@@ -1,0 +1,103 @@
+h2 {
+	margin-top: 50px;
+	margin-bottom: 30px;
+
+}
+.alert-heading {
+	color: #9400D3;
+	display: inline-block;
+}
+.alert-custom {
+    color: #6155a6;
+    background-color: #ffe6e6;
+    border-color: #ffabe1;
+}
+a {
+    color: #6930c3;
+    text-decoration: underline;
+}
+.display-2 {
+	color: black;
+	text-align: center;
+	background-color: palegreen;
+}
+.display-3 {
+	color: #af0069;
+	text-align: center;
+	background-color: #e9b0df;
+}
+.display-4 {
+	color: #af0069;
+	text-align: center;
+	background-color: #FBAB7E;
+    background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+}
+
+.display-5 {
+	color: black;
+	text-align: center;
+	background-color: lightskyblue;
+}
+
+background-image: linear-gradient;
+.btn1{
+	background-color: mediumslateblue;
+	color: black;
+	border: 1px solid blueviolet;
+}
+
+.btn-custom {
+	background-image: linear-gradient(to right, #AA076B 0%, #61045F  51%, #AA076B  100%);
+	margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+}
+
+.accordion-button {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 1rem 1.25rem;
+  font-size: 1rem;
+  color: #212529;
+  background: linear-gradient( 135deg, #5EFCE8 10%, #736EFE 100%);
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0;
+  overflow-anchor: none;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, border-radius 0.15s ease;
+}
+
+	
+h3 {
+  margin-top: 5px;
+  padding: 5px;
+  background-image: radial-gradient( circle 422px at -10.3% 110.7%,  rgba(219,76,180,1) 9.5%, rgba(231,119,209,1) 50.8%, rgba(255,180,241,1) 88.5% );
+}
+
+h4{
+	margin-top: 5px;
+    padding: 5px;
+	background-color: #85FFBD;
+    background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+}
+h5{
+	margin-top: 50px;
+	}
+.card-text {
+	margin-top: 5px;
+    padding: 5px;
+	color: indigo;
+	background-color: plum;
+}
+
+.card-footer {
+	color: black;
+	background-color: salmon;
+}
